@@ -1,4 +1,4 @@
 # project1
 git1
 <br>
-Author - Ayush Talwar
+author - Ayush Talwar
